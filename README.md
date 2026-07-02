@@ -3,6 +3,8 @@
 > **Note**
 > โครงการนี้สร้างขึ้นโดยการทำงานร่วมกับ **Antigravity (AI Assistant)** และเป็นส่วนหนึ่งของการเรียนรู้ในหลักสูตรของ **Generation Thailand** 🇹🇭
 
+### 🔗 [ชมหน้าเว็บจริงออนไลน์ได้ที่นี่ // Click here for Live Demo](https://doctordear.github.io/JSD13-week01/)
+
 Botanica is a static, premium web application designed to act as an interactive showcase catalog for collector-grade houseplants. Users can filter species by care difficulty, search by keyword, view comprehensive care sheets, and bookmark plants in a persistent wishlist.
 
 ---
