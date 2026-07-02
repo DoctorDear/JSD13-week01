@@ -1,5 +1,8 @@
 # Product Requirements Document (PRD) - Botanica
 
+> **Note**
+> เอกสารความต้องการผลิตภัณฑ์นี้สำหรับโครงการที่พัฒนาขึ้นร่วมกับ **Antigravity (AI Assistant)** ซึ่งเป็นส่วนหนึ่งของกิจกรรมการเรียนรู้ภายใต้ **Generation Thailand** 🇹🇭
+
 ## 1. Executive Summary
 **Botanica** is a premium, interactive web-based showcase catalog for rare and exotic houseplants (such as variegated Monstera, Anthuriums, and Alocasias). The project aims to deliver a high-end, immersive, dark-forest themed catalog experience for plant collectors while demonstrating clean web fundamentals using Vanilla JavaScript (arrays and objects), semantic HTML5, and responsive CSS3.
 
